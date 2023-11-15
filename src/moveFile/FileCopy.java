@@ -17,7 +17,8 @@ public class FileCopy {
 
     public static void main(String[] args) throws IOException {
         String target = "C:\\Users\\adminjia\\Pictures\\test";
-        String src = "C:\\Users\\adminjia\\Pictures\\go语言权威指南 - 副本";
+//        String src = "C:\\Users\\adminjia\\Pictures\\go语言权威指南 - 副本";
+        String src = "C:\\Users\\adminjia\\Pictures\\Go语言开发实战";
         File file = new File(src);
         List<File> list = Arrays.stream(Objects.requireNonNull(file.listFiles())).filter(File::isFile).sorted((f1, f2) -> Math.toIntExact(f1.lastModified() - f2.lastModified())).toList();
 //        System.out.println(list);

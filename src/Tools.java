@@ -94,7 +94,8 @@ public class Tools {
         map.put("Ky帝", "【Ky帝】");
         map.put("HR梗梗", "【HR梗梗】");
         map.put("MH丶啵啵", "【MH啵啵】");
-        map.put("139小燃燃", "【139小燃燃】");
+        map.put("139小燃燃", "【小燃燃】");
+        map.put("小燃燃", "【小燃燃】");
         map.put("brem嘉嘉", "【brem嘉嘉】");
         map.put("Chance喵", "【Chance喵】");
         map.put("CK李纯儿", "【CK李纯儿】");
@@ -165,6 +166,12 @@ public class Tools {
         map.put("同桌小美", "【同桌小美】");
         map.put("尹恩恩1", "【尹恩恩1】");
         map.put("小蛋糕", "【小蛋糕】");
+        map.put("小c甜", "【小c甜】");
+        map.put("夏菲", "【夏菲】");
+        map.put("咸味小甜酒", "【咸味小甜酒】");
+        map.put("小火龙", "【咸味小甜酒】");
+        map.put(" -环星小梦mm", "【环星小梦mm】");
+        map.put("环星小梦mm", "【环星小梦mm】");
 
     }
 
